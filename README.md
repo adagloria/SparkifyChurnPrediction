@@ -3,7 +3,6 @@ This project aims to help the Sparkify business understand their users by helpin
 
 ## File Descriptions
 * Sparkify.ipynb - The notebook displays detailed steps from Data Loading through to Model Building and Evaluation. Markdown cells and inline comments were used to aid proper understanding of the individual steps.
-* data folder - Contains the dataset used for analysis
 * README.md - Project description document
 
 ## Libraries Used
